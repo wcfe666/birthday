@@ -1,0 +1,127 @@
+def text a{
+    content = "бя"
+    x = 11%
+    y = 10%
+}
+set a{
+    x = 0%
+    y = 10%
+}10s
+
+def text b{
+    content = "бя"
+    x = 21%
+    y = 30%
+}
+set b{
+    x = 6%
+    y = 30%
+}10s
+
+def text c{
+    content = "бя"
+    x = 86%
+    y = 38%
+}
+set c{
+    x = 79%
+    y = 30%
+}10s
+
+def text d{
+    content = "бя"
+    x = 47%
+    y = 21%
+}
+set d{
+    x = 36%
+    y = 20%
+}10s
+
+def text e{
+    content = "бя"
+    x = 64%
+    y = 17%
+}
+set e{
+    x = 53%
+    y = 17%
+}10s
+
+def text f{
+    content = "бя"
+    x = 78%
+    y = 6%
+}
+set f{
+    x = 60%
+    y = 6%
+}10s
+
+def text g{
+    content = "бя"
+    x = 34%
+    y = 8%
+}
+set g{
+    x = 23%
+    y = 19%
+}10s
+
+def text h{
+    content = "бя"
+    x = 50%
+    y = 43%
+}
+set h{
+    x = 42%
+    y = 43%
+}10s
+def text i{
+    content = "бя"
+    x = 100%
+    y = 24%
+}
+set i{
+    x = 87%
+    y = 24%
+}10s
+def text j{
+    content = "бя"
+    x = 100%
+    y = 43%
+}
+set j{
+    x = 84%
+    y = 39%
+}10s
+def text nb{
+    content = ""
+    x = 25%
+    y = 53%
+    scale = 0.5
+    color = 0xFF66CC
+}
+set nb{
+    content = "                      ir   :u.  i7 ..                   \n                    J i7 :. 7 .iii i2                   \n                    5  i 1  :  i . .i                   \n                    7  ;7F5u721 r::::                   \n                  vE10MMBZB@M@BrB@B1UM;               \n                 v@OEF@B@u0OOO@.EBB5M0@i             \n                 LB@MBZE8GEGNZZEG8GBBBB7            \n                  08BBOBOO@@@B@B@BBBNEG          \n                .:Ujvr:FLrYv7Uviiii77F2.            \n              2G88MEXFuSJrrrrrvvLLLYUSZB@ZJ         \n             @B0MMLLFOvZLLULLuqUj2rLJFL@BkBX          \n             Bq2EOZSXSvY7iiiri:ir7u1XNZ8qL2B,        \n             @BB8ZG8ZZ8OZ0XPkSXZZM8OZGGOM@B@        \n             P@B@B@B@BMO@B@B@B@B@B@B@B@B8E@1            \n              5UvOXjvBO2E@B8M@B@kkZXjukjrUM.          \n              OJLiii:PL:irr::77i::i:ii7vJFM           \n              B@N5ujrE1iiiirri::i7rvvJujSMZ             \n             i105M@ZXGSYqNku52EMBJBOLYUuF82i            \n             7vq2@O77@v77jv77vL1LrYuYu2q0M77     \n              irLP8UUXUYJvLvJJLvLYJu521jvi     \n                   ir7vLLJLJvLvYvLv7ii "
+}10s
+def text ccc{
+    content = ""
+    x = 3%
+    y = 65%
+    scale = 5
+    color = 0xFFFF00
+}
+set ccc{
+    content = "╔·╚╒"
+}10s
+def text aaa{
+    content = ""
+    x = 65%
+    y = 65%
+    scale = 5
+    color = 0xFFFF00
+}
+set aaa{
+    content = "┐ь└╓"
+}10s
